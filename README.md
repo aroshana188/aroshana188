@@ -18,7 +18,7 @@
 
 ### 🎯 Current Focus & Research
 * 🧠 **Deep Learning for Hardware:** Investigating novel AI techniques for digital hardware acceleration.
-* ⚡ **Digital Systems Architecture:** Analyzing RAM and GPU architectures for next-generation efficiency and bandwidth improvements.
+* ⚡ **Digital Systems Architecture:** Analyzing RAM and GPU architectures for efficiency and bandwidth improvements.
 
 <hr>
 
@@ -55,13 +55,6 @@
 | **[15kg Featherweight Combat Robot](https://github.com/aroshana188)** <br> *Arena battlebot with custom remote control* | Mechatronics / Power | `ESP32` `nRF24L01` `High-Current ESCs` `FEA` |
 | **[Analog FM Demodulator](https://github.com/aroshana188/FM-Demodulator-using-PLL)** <br> *High-frequency carrier shift conversion* | Analog Electronics | `CD4046 PLL` `LM386 Class AB` `LTspice` |
 | **[Enterprise LAN & LDAV Protocol](https://github.com/aroshana188/LAN-and-Routing-Protocol-Design)** <br> *Custom distance-vector routing algorithm* | Network Architecture | `Python` `HMAC-SHA256` `Cisco Packet Tracer` |
-
-<hr>
-
-### 📈 Currently Exploring
-* 🧠 Investigating deep learning algorithms for digital hardware acceleration.
-* ⚡ Analyzing RAM and GPU architectures for next-generation efficiency improvements.
-* 🏃‍♂️ Maintaining my anaerobic fitness zones through structured outdoor running when I'm away from the workbench!
 
 <hr>
 
