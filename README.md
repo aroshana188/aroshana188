@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Pramod Aroshana 👋
 
-<!--
-**aroshana188/aroshana188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa, Sri Lanka. I enjoy building hardware, simulating networks, and diving deep into system architectures.
 
-Here are some ideas to get you started:
+🚀 **Current Focus & Interests:**
+*   **Digital Systems Architecture:** Exploring the inner workings of RAM and GPUs.
+*   **Hardware Optimization:** Applying novel deep learning techniques to maximize hardware efficiency and performance bottlenecks.
+*   **Telecommunications:** SDRs, digital paging pipelines, and high-frequency analog design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Featured Work:**
+*   🏆 **Smart Fertilizer Harvester:** 2nd Runner-Up at the Spark Competition (Automation & UX lead).
+*   🌐 **LDAV Routing Protocol:** A custom Python-simulated distance-vector protocol outperforming RIP.
+*   🤖 **15kg Combat Robot:** High-current electronics and custom ESP32 telemetry.
+*   📡 **SDR Paging System:** Two-way digital communication pipeline using BladeRFs and GNU Radio.
+
+📫 **Let's Connect:**
+*   [LinkedIn](https://www.linkedin.com/in/pramod-aroshana-04a38a3b8)
