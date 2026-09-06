@@ -25,7 +25,6 @@
 ### 🛠️ Core Technical Arsenal
 
 **1. Hardware, Electronics & Embedded Systems** <br>
-**1. Hardware, Electronics & Embedded Systems** <br>
 ![STM32](https://img.shields.io/badge/STM32-ARM_Cortex_M-03234B?style=flat-square&logo=stmicroelectronics)
 ![ESP32](https://img.shields.io/badge/ESP32-Wireless_Telemetry-E7352C?style=flat-square&logo=espressif)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-PCB_Routing-000000?style=flat-square&logo=altium)
@@ -44,7 +43,6 @@
 ![BladeRF](https://img.shields.io/badge/BladeRF-Software_Defined_Radio-blue?style=flat-square)
 ![Analog Design](https://img.shields.io/badge/RF_%26_Analog-PLL_%7C_Modulation-success?style=flat-square)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-Enterprise_Routing-1BA0D7?style=flat-square&logo=cisco)
-
 <hr>
 
 ### 🚀 Featured Engineering Projects
