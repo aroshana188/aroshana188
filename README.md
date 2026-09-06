@@ -25,24 +25,30 @@
 ### 🛠️ Core Technical Arsenal
 
 **1. Hardware, Electronics & Embedded Systems** <br>
+<p align="center">
 ![STM32](https://img.shields.io/badge/STM32-ARM_Cortex_M-03234B?style=flat-square&logo=stmicroelectronics)
 ![ESP32](https://img.shields.io/badge/ESP32-Wireless_Telemetry-E7352C?style=flat-square&logo=espressif)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-PCB_Routing-000000?style=flat-square&logo=altium)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-Parametric_CAD-E32526?style=flat-square&logo=dassault-systèmes)
 ![LTspice](https://img.shields.io/badge/LTspice-Analog_Simulation-red?style=flat-square)
+</p>
 
 **2. Software, AI & Computing** <br>
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-Algorithms-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Embedded_Logic-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Data_Analysis-0076A8?style=flat-square&logo=mathworks)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Hardware_Optimization-FFCA28?style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Academic_Documentation-008080?style=flat-square&logo=latex)
+</p>
 
 **3. Telecommunications & Networking** <br>
+<p align="center">
 ![GNU Radio](https://img.shields.io/badge/GNU_Radio-DSP_Pipelines-E75033?style=flat-square)
 ![BladeRF](https://img.shields.io/badge/BladeRF-Software_Defined_Radio-blue?style=flat-square)
 ![Analog Design](https://img.shields.io/badge/RF_%26_Analog-PLL_%7C_Modulation-success?style=flat-square)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-Enterprise_Routing-1BA0D7?style=flat-square&logo=cisco)
+</p>
 
 <hr>
 
